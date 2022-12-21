@@ -74,7 +74,7 @@ section p {
 
 section#home {
   display: flex;
-  background: url(bg.png) no-repeat center center/cover ;
+  background: rgb(42,42,42);
   background-size: cover;
   color: whitesmoke;
   font-size: 50px;
